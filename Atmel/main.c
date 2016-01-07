@@ -1,5 +1,5 @@
 /*
- * ATMega168_ShutterTests.c
+ * DACOShutterTests.c
  * Created: 12/30/2014 11:37:38 AM
  *  Author: Alan Uomoto
  * 16 MHz crystal clock
